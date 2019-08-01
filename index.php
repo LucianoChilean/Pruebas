@@ -35,5 +35,19 @@ echo 'hola cauros',$manzana;
         </script>
     </div>
 
+<<<<<<< HEAD
+=======
+    
+    
+    
+    
+       <button id="cotito"> Presioname</button>
+        <script>
+            JQuery('#cotito').click(function(){
+            
+                alert('uy papa xd');
+            });
+        </script>
+>>>>>>> master
 </body>
 </html>
