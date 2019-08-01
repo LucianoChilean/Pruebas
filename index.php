@@ -11,8 +11,6 @@ echo 'hola cauros',$manzana;
 
 
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,20 +26,14 @@ echo 'hola cauros',$manzana;
             $('#cotito').click(function(){
             
                 alert('uy papa xd');
+
+
+
+
+                alert('YA PO');
             });
         </script>
     </div>
 
-    
-    
-    
-    
-       <button id="cotito"> Presioname</button>
-        <script>
-            $('#cotito').click(function(){
-            
-                alert('uy papa xd');
-            });
-        </script>
 </body>
 </html>
