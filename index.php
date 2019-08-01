@@ -21,12 +21,6 @@ echo 'hola cauros',$manzana;
 </head>
 <body>
     <div>
-<<<<<<< HEAD
-        <p> hola :D <?php echo $manzana ?> </p> 
-    </div>
-    <div>
-        <button> Presioname</button>
-=======
         hola :D <?php echo $manzana ?>
 
         <button id="cotito"> Presioname</button>
@@ -34,25 +28,13 @@ echo 'hola cauros',$manzana;
             $('#cotito').click(function(){
             
                 alert('uy papa xd');
-            });
-        </script>
->>>>>>> master
-    </div>
-        
-
-        
- 
-
-    
-    
-    
-    
-       <button id="cotito"> Presioname</button>
-        <script>
-            JQuery('#cotito').click(function(){
             
-                alert('uy papa xd');
+            
+            var a = getElementByID(cotito);
+               alert(a); 
             });
         </script>
+    </div>
+      
 </body>
 </html>
