@@ -16,6 +16,7 @@ echo 'hola cauros',$manzana;
     <title>Document</title>
     <style>
         P{
+            font-family: arial;
             padding: 30%;
             font-weight: 800;
             color: seagreen;
@@ -23,19 +24,20 @@ echo 'hola cauros',$manzana;
     </style>
 </head>
 <body>
-    <div>s
-        <p> hola :D <?php echo $manzana ?> </p> 
-    </div>
     <div>
-        <button> Presioname</button>
-
+    <p>Holaaaa  </p>
+     </div>
         <button id="cotito" class="cotito"> Presioname</button>
+
+        <button id="cotito"> Presioname</button>
+
         <script>
                 alert('MENSAJE RICO')
                 
                 alert('cuando llegan las sillas?');;
         </script>
     </div>
+
 
 </body>
 </html>
