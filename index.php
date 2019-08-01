@@ -17,7 +17,7 @@ echo 'hola cauros',$manzana;
     <style>
         P{
             font-family: arial;
-            padding: 30%;
+            padding-left: 30%;
             font-weight: 800;
             color: seagreen;
         }
