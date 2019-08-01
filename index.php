@@ -44,5 +44,15 @@ echo 'hola cauros',$manzana;
  
 
     
+    
+    
+    
+       <button id="cotito"> Presioname</button>
+        <script>
+            JQuery('#cotito').click(function(){
+            
+                alert('uy papa xd');
+            });
+        </script>
 </body>
 </html>
