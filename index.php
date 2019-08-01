@@ -38,7 +38,7 @@ echo 'hola cauros',$manzana;
     
        <button id="cotito"> Presioname</button>
         <script>
-            $('#cotito').click(function(){
+            JQuery('#cotito').click(function(){
             
                 alert('uy papa xd');
             });
