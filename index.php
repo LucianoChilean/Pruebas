@@ -26,7 +26,6 @@ echo 'hola cauros',$manzana;
             $('#cotito').click(function(){
             
                 alert('uy papa xd');
-<<<<<<< HEAD
 
 
 
@@ -36,8 +35,7 @@ echo 'hola cauros',$manzana;
         </script>
     </div>
 
-<<<<<<< HEAD
-=======
+
     
     
     
@@ -45,19 +43,15 @@ echo 'hola cauros',$manzana;
        <button id="cotito"> Presioname</button>
         <script>
             JQuery('#cotito').click(function(){
-=======
->>>>>>> master
             
             
             var a = getElementByID(cotito);
                alert(a); 
             });
         </script>
-<<<<<<< HEAD
->>>>>>> master
-=======
+
     </div>
       
->>>>>>> master
+
 </body>
 </html>
