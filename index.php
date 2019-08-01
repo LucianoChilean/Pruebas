@@ -27,6 +27,7 @@ echo 'hola cauros',$manzana;
     <div>
     <p>Holaaaa  </p>
      </div>
+       <div>
         <button id="cotito" class="cotito"> Presioname</button>
 
         <button id="cotito"> Presioname</button>
@@ -34,7 +35,7 @@ echo 'hola cauros',$manzana;
         <script>
                 alert('MENSAJE RICO')
                 
-                alert('cuando llegan las sillas?');;
+                alert('cuando llegan las sillas?');
         </script>
     </div>
 
