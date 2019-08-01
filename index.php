@@ -33,9 +33,7 @@ echo 'hola cauros',$manzana;
         <button id="cotito"> Presioname</button>
 
         <script>
-                alert('MENSAJE RICO')
-                
-                alert('cuando llegan las sillas?');
+               
         </script>
     </div>
 
