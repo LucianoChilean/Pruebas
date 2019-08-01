@@ -16,12 +16,23 @@ echo 'hola cauros',$manzana;
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <style>
+        p{
+            color: red;
+            font-weight: 800;
+            padding: 230%;
+        }
+    </style>
 </head>
 <body>
     <div>
-        hola :D <?php echo $manzana ?>
+<<<<<<< Updated upstream
+        hola :D <?php echo $manzana; ?>
 
         <button> Presioname</button>
+=======
+        <p> hola :D <?php echo $manzana ?> </p>
+>>>>>>> Stashed changes
     </div>
 
     
