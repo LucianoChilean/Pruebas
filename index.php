@@ -8,6 +8,8 @@ $manzana = 'que sapa';
 
 echo 'hola cauros',$manzana;
 
+
+
 ?>
 
 
@@ -16,20 +18,25 @@ echo 'hola cauros',$manzana;
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
-    <style>
-        p{
-            color: red;
-            font-weight: 800;
-            padding: 230%;
-        }
-    </style>
 </head>
 <body>
     <div>
+<<<<<<< HEAD
         <p> hola :D <?php echo $manzana ?> </p> 
     </div>
     <div>
         <button> Presioname</button>
+=======
+        hola :D <?php echo $manzana ?>
+
+        <button id="cotito"> Presioname</button>
+        <script>
+            $('#cotito').click(function(){
+            
+                alert('uy papa xd');
+            });
+        </script>
+>>>>>>> master
     </div>
         
 
