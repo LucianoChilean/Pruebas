@@ -33,5 +33,15 @@ echo 'hola cauros',$manzana;
     </div>
 
     
+    
+    
+    
+       <button id="cotito"> Presioname</button>
+        <script>
+            $('#cotito').click(function(){
+            
+                alert('uy papa xd');
+            });
+        </script>
 </body>
 </html>
