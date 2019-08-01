@@ -20,6 +20,10 @@ echo 'hola cauros',$manzana;
 <body>
     <div>
         hola :D <?php echo $manzana ?>
+
+        <button> Presioname</button>
     </div>
+
+    
 </body>
 </html>
