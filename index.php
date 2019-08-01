@@ -29,9 +29,11 @@ echo 'hola cauros',$manzana;
     <div>
         <button> Presioname</button>
 
-        <button id="cotito"> Presioname</button>
+        <button id="cotito" class="cotito"> Presioname</button>
         <script>
-                alert('MENSAJE RICO');
+                alert('MENSAJE RICO')
+                
+                alert('cuando llegan las sillas?');;
         </script>
     </div>
 
