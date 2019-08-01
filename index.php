@@ -26,14 +26,15 @@ echo 'hola cauros',$manzana;
 </head>
 <body>
     <div>
-<<<<<<< Updated upstream
-        hola :D <?php echo $manzana; ?>
-
-        <button> Presioname</button>
-=======
-        <p> hola :D <?php echo $manzana ?> </p>
->>>>>>> Stashed changes
+        <p> hola :D <?php echo $manzana ?> </p> 
     </div>
+    <div>
+        <button> Presioname</button>
+    </div>
+        
+
+        
+ 
 
     
 </body>
