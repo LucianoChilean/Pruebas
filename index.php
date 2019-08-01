@@ -31,7 +31,25 @@ echo 'hola cauros',$manzana;
         <button id="cotito" class="cotito"> Presioname</button>
 
         <button id="cotito"> Presioname</button>
+        <button id="cotito" class="cotito"> Presioname</button>
 
+<button id="cotito"> Presioname</button><button id="cotito" class="cotito"> Presioname</button>
+
+<button id="cotito"> Presioname</button>
+<button id="cotito" class="cotito"> Presioname</button>
+
+        <button id="cotito"> Presioname</button>
+        <button id="cotito" class="cotito"> Presioname</button>
+
+        <button id="cotito"> Presioname</button>
+        <button id="cotito" class="cotito"> Presioname</button>
+
+        <button id="cotito"> Presioname</button>
+        <div>
+    <p>cabezon  </p>
+     </div><div>
+    <p>Holaaaa  </p>
+     </div>
         <script>
                
         </script>
