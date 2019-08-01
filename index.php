@@ -1,7 +1,7 @@
 <?php
 
 echo "QUE SUCEDE";
-echo "jejeje";
+echo "<br> jejeje";
 
 
 $manzana = 'que sapa';
