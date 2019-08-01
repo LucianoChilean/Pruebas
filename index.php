@@ -35,6 +35,9 @@ echo 'hola cauros',$manzana;
         <script>
                
         </script>
+        <div>
+    <p>chaoooo  </p>
+     </div>
     </div>
 
 
